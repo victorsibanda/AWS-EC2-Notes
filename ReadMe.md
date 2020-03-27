@@ -1,4 +1,4 @@
-# AWS
+# AWS :cloud:
 
 
 ### What is an EC2?
